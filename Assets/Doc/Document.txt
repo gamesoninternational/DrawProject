@@ -1,0 +1,15 @@
+Enemy Level Easy
+Horizontal Line
+Vertical Line
+Diagonal Line /
+Diagonal Line \
+LetterL
+
+Enemy Level Medium
+Circle
+Square
+Check Mark
+Triangle
+Lightning Bolt
+
+Enemy Level Hard
